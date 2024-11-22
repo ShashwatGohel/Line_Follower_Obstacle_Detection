@@ -38,5 +38,16 @@ The **Line Follower with Obstacle Detection** is a robotic system designed to au
 ### **Installation**
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/ShashwatWizHub/LineFollower_ObstacleDetection
+   git clone https://github.com/ShashwatGohel/LineFollower_ObstacleDetection
    cd ARDUINO_LINE_FOLLOWING_CAR
+
+### **How to Run The Code**
+
+   - Connect the hardware components as per the provided circuit diagram.
+   - Open the Arduino IDE and upload the provided code to the Arduino Uno board:
+   -Open the .ino file in the Arduino IDE.
+   - Select the correct Board and Port under the Tools menu.
+   - Click on the Upload button.
+   - Once uploaded, power the Arduino and observe the system in action:
+   - The robot follows the path marked by the line using IR sensors.
+   - If an obstacle is detected, the robot stops and resumes movement once the path is clear.

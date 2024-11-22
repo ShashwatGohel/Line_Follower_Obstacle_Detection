@@ -1,4 +1,4 @@
-# **LineFollower_ObstacleDetection**
+# **LineFollower_ObstacleDetection(PathGuard)**
 
 The **Line Follower with Obstacle Detection** is a robotic system designed to autonomously follow a pre-defined path (line) and detect obstacles in its path using sensors. The robot halts upon detecting an obstacle and resumes operation once the path is clear. This project integrates line-following capabilities and obstacle avoidance to create a versatile and efficient robotic system suitable for automation tasks, logistics, and smart industrial applications.
 

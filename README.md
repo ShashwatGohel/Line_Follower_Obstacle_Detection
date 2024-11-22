@@ -38,7 +38,7 @@ The **Line Follower with Obstacle Detection** is a robotic system designed to au
 ### **Installation**
 1. **Clone the Repository**  
    ```bash
-   git clone https://https://github.com/ShashwatGohel/Line_Follower_Obstacle_Detection
+   git clone https://github.com/ShashwatGohel/Line_Follower_Obstacle_Detection
    cd ARDUINO_LINE_FOLLOWING_CAR
 
 ### **How to Run The Code**

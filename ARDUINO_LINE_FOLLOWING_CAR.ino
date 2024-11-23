@@ -1,10 +1,10 @@
 #include <AFMotor.h>
 
 // Defining pins
-#define lefts A0 // Left IR sensor pin
-#define rights A1 // Right IR sensor pin
-#define trigPin A3 // Ultrasonic sensor trigger pin
-#define echoPin A2 // Ultrasonic sensor echo pin
+#define lefts 10 // Left IR sensor pin
+#define rights 11 // Right IR sensor pin
+#define trigPin 8 // Ultrasonic sensor trigger pin
+#define echoPin 9 // Ultrasonic sensor echo pin
 
 // Defining motors
 AF_DCMotor leftMotor(1, MOTOR12_1KHZ); 
